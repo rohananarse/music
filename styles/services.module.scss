@@ -1,0 +1,13 @@
+.service_img {
+  margin-bottom: 10px;
+  position: relative;
+  overflow: hidden;
+  height: 280px;
+  width: 100%;
+}
+
+.service_img img {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
