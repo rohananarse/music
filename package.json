@@ -1,6 +1,9 @@
 {
   "name": "music-book",
   "private": true,
+  "engines": {
+    "node": "14.18.1"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
