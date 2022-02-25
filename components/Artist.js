@@ -3,17 +3,19 @@ import DroneCat from './DroneCat';
 import DroneMenu from './DroneMenu';
 
 const menuData = [{
+    cat: 'Dancer',
     id: 1,
     title: 'Venom',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     video: 'https://youtu.be/vbWT8el9Ffw',
     desc: 'Shoot with Mudassar khan',
-    cat: 'Dancer'
-}, {
+
+},
+{
     id: 2,
     title: 'Flora',
     video: 'https://youtu.be/vbWT8el9Ffw',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     desc: 'Shoot with Mudassar khan',
     cat: 'SkateBoarders'
 },
@@ -21,33 +23,43 @@ const menuData = [{
     id: 3,
     title: 'Fiana.',
     video: 'https://youtu.be/vbWT8el9Ffw',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     desc: 'Shoot with Mudassar khan',
     cat: 'Freestyle Footballers'
 },
 {
     id: 4,
     title: 'Ralph',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     video: 'https://youtu.be/vbWT8el9Ffw',
     desc: 'Shoot with Mudassar khan',
     cat: 'Rappers'
-}, {
+},
+{
     id: 5,
     title: 'wild reppers',
     video: 'https://youtu.be/vbWT8el9Ffw',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     desc: 'Shoot with Mudassar khan',
     cat: 'Singers'
 },
 {
     id: 6,
-    title: 'Itrix crew.',
+    title: 'wild reppers',
     video: 'https://youtu.be/vbWT8el9Ffw',
-    img: '../images/shoot1.png',
+    img: 'https://via.placeholder.com/400',
     desc: 'Shoot with Mudassar khan',
-    cat: 'brands'
-}]
+    cat: 'Singers'
+},
+{
+    id: 6,
+    title: 'wild reppers',
+    video: 'https://youtu.be/vbWT8el9Ffw',
+    img: 'https://via.placeholder.com/400',
+    desc: 'Shoot with Mudassar khan',
+    cat: 'SkateBoarders'
+}
+]
 
 const allcategories = ["All", ...new Set(menuData.map((data) => data.cat))]
 
