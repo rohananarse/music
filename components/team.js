@@ -87,7 +87,7 @@ export default function Team() {
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">Lokesh </h4>
-                                        <span className="title-style-2 team-position site-text-primary">CORE VIDEO EDITOR & CINEMATOGRAPHER</span>
+                                        <span className="title-style-2 team-position site-text-primary">CELEBRITY PHOTOGRAPHER</span>
                                     </div>
                                     {/* <div className="team-social-center">
                                         <ul className="team-social-bar">
