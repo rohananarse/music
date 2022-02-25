@@ -57,22 +57,6 @@ p {
   font-size: 14px;
 }
 
-.video-block-fw {
-  position: relative;
-  height: 80%;
-}
-
-.video-block-fw:before {
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  top: -5px;
-  z-index: 0;
-  background: rgba(0, 0, 0, 0.3);
-  min-height: 100%;
-  content: "";
-}
-
 .cta-btn .btn {
   padding: 10px 20px;
   color: #fff;

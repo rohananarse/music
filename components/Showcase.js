@@ -5,7 +5,7 @@ import { Button } from 'react-bootstrap'
 export default function Showcase() {
     return (
         <div className="hero-video-container" id="home">
-            <div className="video-block-fw">
+            <div className={style.video_block}>
                 <video src="../banner-video.mp4" className={style.video} autoPlay loop="false" playsInline muted></video>
                 <div className="container">
                     <div className={style.blockCaptions}>
