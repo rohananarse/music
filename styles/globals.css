@@ -392,6 +392,7 @@ h4 {
 }
 .flyout-cta h6 {
   color: #fcc008;
+  text-transform: uppercase;
 }
 
 .flyout-cta h5 {
