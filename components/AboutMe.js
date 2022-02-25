@@ -9,7 +9,7 @@ export default function AboutMe() {
                 <div className="row d-flex justify-content-between">
                     <div className="col-md-7">
                         <div className="mb-4">
-                            <h2 className={style.bio_title}>Hello <strong> i'm Ashish S Kanoujiya.</strong></h2>
+                            <h2 className={style.bio_title}>Hello <strong> <span>i'm Ashish S Kanoujiya.</span></strong></h2>
                             <p>
                                 I started my career as a dance but always have been visionary person.
                                 As working in Bollywood industry for more than 10 yrs .

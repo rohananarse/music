@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@400;500;600&family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Orbitron&family=Poppins:wght@400;500;600&family=Roboto:wght@400;500&display=swap");
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Merriweather", sans-serif;
   color: #888;
 }
 
@@ -31,6 +31,7 @@ p {
 .navbar-light .navbar-nav .nav-link {
   color: #fff;
   padding: 10px 30px 10px 0px;
+  font-family: "Merriweather";
 }
 .navbar-light .navbar-nav .nav-link:hover {
   color: #fcc008;
@@ -81,7 +82,7 @@ p {
 .section-title {
   padding: 1.5rem 0;
   color: #212121;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Merriweather", serif;
 }
 
 .contact-form input,
@@ -202,8 +203,9 @@ div:first-child {
 .service-bg h4 {
   font-size: 18px;
   padding-top: 15px;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #000;
+  text-transform: uppercase;
 }
 .service-bg .col-md-3 {
   padding: 0;
@@ -325,7 +327,7 @@ h4 {
 }
 .wt-team-2 .team-position {
   font-size: 16px;
-  line-height: 16px;
+  line-height: 24px;
   display: block;
   text-transform: capitalize;
   font-weight: 600;
@@ -346,7 +348,7 @@ h4 {
 }
 .wt-team-2 .team-social-center ul li a {
   font-size: 16px;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Merriweather", serif;
   font-weight: 500;
   position: relative;
   color: #212121;
@@ -388,7 +390,10 @@ h4 {
 }
 
 .flyout-cta h5 {
-  font-family: "Orbitron", sans-serif;
+  font-family: "Merriweather", serif;
   text-align: center;
   line-height: 2rem;
+}
+.wt-team-2 {
+  height: 100%;
 }
