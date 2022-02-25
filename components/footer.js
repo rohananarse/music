@@ -1,4 +1,3 @@
-
 import style from '@/styles/footer.module.scss';
 
 export default function Footer() {

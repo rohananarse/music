@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Team() {
     return (
-        <div classNameName="section-padd">
-            <div classNameName='container'>
-                <h2 classNameName="section-title mb-2">Our Team</h2>
+        <div className="section-padd">
+            <div className='container'>
+                <h2 className="section-title mb-2">Our Team</h2>
                 <div className="section-content">
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-12 m-b30">
