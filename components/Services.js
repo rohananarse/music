@@ -12,7 +12,7 @@ export default function Services() {
                     <div className="col-md-4">
                         <div className='service-block'>
                             <img src="../images/icons/wedding.png" />
-                            <h4>WEDDINGS / ENGAGMENTS</h4>
+                            <h4>WEDDINGS</h4>
                         </div>
 
                     </div>

@@ -23,7 +23,7 @@ export default function Stats() {
                                         <div className="counter-block">
 
                                             <p className="small-text">Serving in more than</p>
-                                            <h4 className="numbers numscroller scrollzip roller-title-number-1 isShown" data-min="0000" data-max="12" data-delay="1" data-increment="1" data-slno="1">12</h4>
+                                            <h4 className="numbers numscroller scrollzip roller-title-number-1 isShown" data-min="0000" data-max="12" data-delay="1" data-increment="1" data-slno="1">10</h4>
                                             <div>Countries</div>
                                         </div>
                                     </div>
@@ -31,8 +31,8 @@ export default function Stats() {
                                     <div className="col-md-6  countbox">
                                         <div className="counter-block">
 
-                                            <p className="small-text">Working With more than</p>
-                                            <h4 className="numbers numscroller roller-title-number-2 scrollzip isShown" data-min="0000" data-max="20" data-delay="1" data-increment="1" data-slno="2">20</h4>
+                                            <p className="small-text">Worked With more than</p>
+                                            <h4 className="numbers numscroller roller-title-number-2 scrollzip isShown" data-min="0000" data-max="20" data-delay="1" data-increment="1" data-slno="2">100</h4>
                                             <div>Clients</div>
                                         </div>
                                     </div>
@@ -41,15 +41,17 @@ export default function Stats() {
                                         <div className="counter-block">
 
                                             <p className="small-text">More than</p>
-                                            <h4 className="numbers numscroller roller-title-number-3 scrollzip isShown" data-min="0000" data-max="18" data-delay="1" data-increment="1" data-slno="3">18</h4>
+                                            <h4 className="numbers numscroller roller-title-number-3 scrollzip isShown" data-min="0000" data-max="18" data-delay="1" data-increment="1" data-slno="3">100</h4>
                                             <div>Portfolio Products</div>
                                         </div>
                                     </div>
                                     <div className="col-md-6 countbox">
                                         <div className="counter-block">
 
-                                            <p className="small-text">Total</p>
-                                            <h4 className="numbers numscroller roller-title-number-4 scrollzip isShown" data-min="0000" data-max="4" data-delay="1" data-increment="1" data-slno="4">4</h4>
+                                            <p className="small-text">
+                                                More than
+                                            </p>
+                                            <h4 className="numbers numscroller roller-title-number-4 scrollzip isShown" data-min="0000" data-max="4" data-delay="1" data-increment="1" data-slno="4">8</h4>
                                             <div>Years Of Experience</div>
 
                                         </div>
