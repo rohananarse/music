@@ -42,7 +42,7 @@ export default function Header() {
                             <div className="header-box-info">
                                 <strong>Opening Hour</strong>
                                 <br />
-                                <span>10:00 AM - 11:00 PM</span>
+                                <span>24/7</span>
                             </div>
                         </li>
                     </ul>
