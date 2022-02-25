@@ -9,7 +9,7 @@ export default function Team() {
                     <div className="row justify-content-center">
                         <div className="col-lg-3 col-md-6 col-sm-12 m-b30">
                             <div className="wt-team-2">
-                                <div className="wt-media"> <img src="https://gridvalley.net/wp/dronza/wp-content/uploads/2020/12/pic1-2.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
+                                <div className="wt-media"> <img src="../images/team/sid.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">SIDDHART NAYAK (FLYING SID)</h4>
@@ -28,7 +28,7 @@ export default function Team() {
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-12 m-b30">
                             <div className="wt-team-2">
-                                <div className="wt-media"> <img src="https://gridvalley.net/wp/dronza/wp-content/uploads/2020/12/pic2-2.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
+                                <div className="wt-media"> <img src="../images/team/ganesh.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">GANESH MALI </h4>
@@ -47,7 +47,7 @@ export default function Team() {
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-12 m-b30">
                             <div className="wt-team-2">
-                                <div className="wt-media"> <img src="https://gridvalley.net/wp/dronza/wp-content/uploads/2020/12/pic3-1.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
+                                <div className="wt-media"> <img src="../images/team/jay.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">JAY MAKWANA</h4>
@@ -66,7 +66,7 @@ export default function Team() {
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-12 m-b30">
                             <div className="wt-team-2">
-                                <div className="wt-media"> <img src="https://gridvalley.net/wp/dronza/wp-content/uploads/2020/12/pic3-1.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
+                                <div className="wt-media"> <img src="../images/team/nilesh.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">NILESH VAISHYA </h4>

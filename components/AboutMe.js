@@ -132,7 +132,7 @@ export default function AboutMe() {
                     </div>
                     <div className="col-md-4">
                         <div className={style.aboutimg}>
-                            <img src="../images/about/about.jpg"></img>
+                            <img src="../images/team/ashish.jpg"></img>
                         </div>
                     </div>
                 </div>

@@ -11,7 +11,7 @@ export default function Showcase() {
                     <div className={style.blockCaptions}>
                         <h1 className="mb-4">Eye the talent production</h1>
                         <h5>
-                            We are visual production company, specializing in Aerial Drone Videography and Photography
+                            We are media house production, specialise in Aerial drone shoots, Cinematography and Photography
                         </h5>
                         <div className="cta-btn mt-5">
                             <Button variant="warning" className="me-2" href="#contactus">Contact Now</Button>{' '}
