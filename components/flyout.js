@@ -8,7 +8,7 @@ export default function flyout() {
                 <h5>OUR MAIN MOTO - TO GIVE A SATISFACTORY PRODUCT TO OUR CLIENT.
                     WE BELIVE IN LONG TERM RELATIONSHIP.</h5>
                 <div className='text-center'>
-                    <div className='mt-4'><h6>Ashish AKA Venom</h6></div>
+                    <div className='mt-4'><h6>Ashish AKA Vlog Venom</h6></div>
                 </div>
             </div>
         </div>

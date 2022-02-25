@@ -14,7 +14,6 @@ export default function Team() {
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">SIDDHART NAYAK (FLYING SID)</h4>
                                         <span className="title-style-2 team-position site-text-primary">PRO FPV & DRONE PILOT </span>
-
                                     </div>
                                     {/* <div className="team-social-center">
                                         <ul className="team-social-bar">
@@ -70,6 +69,24 @@ export default function Team() {
                                 <div className="wt-info">
                                     <div className="team-detail">
                                         <h4 className="m-t0 team-name">NILESH VAISHYA </h4>
+                                        <span className="title-style-2 team-position site-text-primary">CORE VIDEO EDITOR & CINEMATOGRAPHER</span>
+                                    </div>
+                                    {/* <div className="team-social-center">
+                                        <ul className="team-social-bar">
+                                            <li><a href="https://facebook.com">Facebook</a></li>
+                                            <li><a href="https://twitter.com">Twitter</a></li>
+                                            <li><a href="https://linkedin.com">Linkedin</a></li>
+                                        </ul>
+                                    </div> */}
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-12 m-b30">
+                            <div className="wt-team-2">
+                                <div className="wt-media mt-4"> <img src="../images/team/lokesh.jpg" className="attachment-full size-full wp-post-image" alt="img" loading="lazy" /></div>
+                                <div className="wt-info">
+                                    <div className="team-detail">
+                                        <h4 className="m-t0 team-name">Lokesh </h4>
                                         <span className="title-style-2 team-position site-text-primary">CORE VIDEO EDITOR & CINEMATOGRAPHER</span>
                                     </div>
                                     {/* <div className="team-social-center">

@@ -8,7 +8,8 @@ export default function Stats() {
                     <div className="row">
                         <div className="col-md-6 col-12">
                             <div className="text-left">
-                                <h2 className="section-title">A Media Company that Develops Innovative Digital Platforms.
+                                <h2 className="section-title">
+                                    We are media house production, specialise in Aerial drone shoots, Cinematography and Photography
                                 </h2>
                                 <span className="divider"></span>
                                 <p className="section-subtitle">A young and vibrant Digital Media player in Content Aggregation and Digital Marketing Solutions, A Media Company
