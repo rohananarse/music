@@ -64,6 +64,7 @@ export default function Drone() {
             return;
         }
 
+
         const newItems = menuData.filter((item) => item.cat === category)
         setMenuItems(newItems)
     }

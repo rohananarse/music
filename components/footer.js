@@ -1,8 +1,9 @@
 import style from '@/styles/footer.module.scss';
 
 export default function Footer() {
+
     return (
-        <footer className={style.footer}>
+        <section className={style.footer}>
             <div className="container">
                 <div className="row footer-text">
                     <div className="col-lg-4">Copyright © Eye The Talent 2021</div>
@@ -19,6 +20,6 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-        </footer>
+        </section>
     )
 }
