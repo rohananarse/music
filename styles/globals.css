@@ -370,7 +370,9 @@ h4 {
 }
 .team-detail h4 {
   color: #fcc008;
+  text-transform: uppercase;
 }
+
 .wt-team-2 .team-social-center ul li:last-child a:after {
   display: none;
 }
