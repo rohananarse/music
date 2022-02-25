@@ -22,25 +22,14 @@ export default function Contactus() {
     return (
         <div className="contactBg section-padd lightBg" id="contactus">
             <div className="container">
-                <h2 class="about_bio_title__197IR"><strong>Lets Discuss Project..!!</strong></h2>
+                <h2 className="about_bio_title__197IR"><strong>Lets Discuss Project..!!</strong></h2>
                 <div className={style.map_pos}>
                     <div className="col-md-12">
                         <div className={style.contactinfo}>
                             <div className={style.map}>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3763.2790958553364!2d72.83764921482715!3d19.400343486902596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGULMOHAR%20BLD%20VRINDAVAN%20COMPLEX%2C%20Evershine%20City%20Rd%2C%20Vasai%20East%2C%20Vasai-Virar%2C%20Maharashtra%20401208!5e0!3m2!1sen!2sin!4v1645770569692!5m2!1sen!2sin" width="100%" height="100%" allowfullscreen="" loading="lazy"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3763.2790958553364!2d72.83764921482715!3d19.400343486902596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGULMOHAR%20BLD%20VRINDAVAN%20COMPLEX%2C%20Evershine%20City%20Rd%2C%20Vasai%20East%2C%20Vasai-Virar%2C%20Maharashtra%20401208!5e0!3m2!1sen!2sin!4v1645770569692!5m2!1sen!2sin" width="100%" height="100%" loading="lazy"></iframe>
                             </div>
-                            {/* <div className="phone">
-                                096994 71049
-                            </div>
-                            <div className="email">
-                                eyethetalent@gmail.com
-                            </div> */}
 
-                            {/* <div className="direction mt-4">
-                                <button className="btn btn-warning">
-                                    Get Directions
-                                </button>
-                            </div> */}
                         </div>
                     </div>
                     <div className={style.contact_form}>
