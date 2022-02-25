@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Header from './Header'
-import Footer from './Footer'
+import Footer from './footer'
 import Showcase from './Showcase'
 import { useRouter } from 'next/router'
 
