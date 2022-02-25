@@ -15,7 +15,7 @@ export default function AboutMe() {
                                 As working in Bollywood industry for more than 10 yrs .
                                 I worked with many celebrity as a dance and also a personal trainer .
                                 I have dance more than 100 Bollywood movies and performed more the 100 tv commercial adds .
-                                Trained Actor’s like Sir.Salman khan,Ashmit Patel,Bipasha Basu etc.
+                                Trained Actor’s like Sir.Salman khan, Ashmit Patel, Bipasha Basu etc.
                                 I also performed in many reality shows like
                                 Entertainment ke liye kuch bhi karega,
                                 India’s got talent season 3 winner with group
