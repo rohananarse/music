@@ -437,7 +437,7 @@ h4 {
 
 .modal-header button {
   background: none;
-  background: red;
+  background: #fcc008;
   opacity: 1;
   border-radius: 50%;
   position: absolute;
