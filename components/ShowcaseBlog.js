@@ -5,44 +5,6 @@ import ModalBlog from './shared-components/modal';
 
 
 export default function ShowcaseBlog() {
-    var settings = {
-        className: "center",
-        centerMode: false,
-        infinite: false,
-        centerPadding: "60px",
-        slidesToShow: 3,
-        speed: 500,
-        centerMode: true,
-
-        responsive: [
-            {
-                breakpoint: 1024,
-                settings: {
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
-                    initialSlide: 2
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    rows: 2,
-                    slidesPerRow: 1,
-                    centerPadding: "20px",
-                }
-            }
-        ]
-    };
 
     const handleClose = () => {
         setSelectedIndex(null)
@@ -53,23 +15,10 @@ export default function ShowcaseBlog() {
     const myObject = [
         {
             id: 1,
-            title: 'Victor Rippin',
+            title: 'Shoot with Mudassar khan',
             img: '../images/shoot1.png',
             video: 'https://youtu.be/vbWT8el9Ffw',
-            desc: 'Shoot with Mudassar khan'
-        }, {
-            id: 2,
-            title: 'Jamey Zieme',
-            video: 'https://youtu.be/vbWT8el9Ffw',
-            img: '../images/shoot1.png',
-            desc: 'Shoot with Mudassar khan'
-        },
-        {
-            id: 3,
-            title: 'Madelyn Ruecker Sr.',
-            video: 'https://youtu.be/vbWT8el9Ffw',
-            img: '../images/shoot1.png',
-            desc: 'Shoot with Mudassar khan'
+            desc: ''
         }
     ];
 
@@ -78,7 +27,7 @@ export default function ShowcaseBlog() {
         <div className='section-padd'>
             <div className="container">
                 <div className="row text-center">
-                    <h2 className="section-title mb-2">Notable work with celebrities</h2>
+                    <h2 className="section-title mb-2">Video Hub</h2>
                     <div className="d-flex recent-work">
                         {myObject.map((item, index) => {
                             return (
@@ -89,6 +38,8 @@ export default function ShowcaseBlog() {
                                             <h5 className="mt-3">{item.title}</h5>
                                         </div>
                                         <div className="desc">{item.desc}</div>
+                                        <img className='play' src='images/play.png'></img>
+
                                     </div>
                                     <ModalBlog onHide={handleClose} show={index == selectedIndex} item={item} />
                                 </div>

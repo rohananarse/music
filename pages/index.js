@@ -1,6 +1,7 @@
 import Artist from "@/components/Artist"
 import Drone from "@/components/Drone"
 import Flyout from "@/components/flyout"
+import ShowcaseBlog from "@/components/ShowcaseBlog"
 import Stats from "@/components/stats"
 import Team from "@/components/team"
 import AboutMe from "../components/AboutMe"
@@ -19,7 +20,7 @@ export default function Home() {
       <Drone />
       <Flyout />
       <Artist />
-      {/* <ShowcaseBlog /> */}
+      <ShowcaseBlog />
       <Contactus />
       <Team />
     </Layout>

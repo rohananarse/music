@@ -80,7 +80,7 @@ function Artist() {
 
 
     return (
-        <div className='section-padd'>
+        <div className='section-padd lightBg'>
             <div className="container">
                 <h2 className="section-title mb-2">Gang Of Artist's</h2>
                 <div>

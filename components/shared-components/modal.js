@@ -7,7 +7,9 @@ export default function ModalBlog({ item, show, onHide, backdrop }) {
     return (
         <div>
             <Modal centered size="lg" show={show} onHide={onHide} keyboard={false}>
-
+                <Modal.Header closeButton>
+                    <div className="text-right closex"></div>
+                </Modal.Header>
                 {item.video &&
                     <div className='player-wrapper'>
                         <ReactPlayer
