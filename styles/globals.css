@@ -387,3 +387,18 @@ h4 {
 .wt-team-2 {
   height: 100%;
 }
+
+/* dorne menu */
+.img-box {
+  position: relative;
+  display: flex;
+  height: 370px;
+  overflow: hidden;
+}
+
+.img-box img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  object-position: top;
+}

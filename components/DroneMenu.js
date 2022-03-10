@@ -8,7 +8,7 @@ export default function DroneMenu({ items }) {
                 items.map((menuItem) => {
                     const { id, title, cat, desc, img } = menuItem;
                     return (
-                        <div className="col-md-4 mb-4" key={id}>
+                        <div className="col-md-4 mb-4 img-box" key={id}>
                             <img className="img-fluid" src={img} />
                         </div>
                     )
