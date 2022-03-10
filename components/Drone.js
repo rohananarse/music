@@ -52,7 +52,7 @@ const menuData = [{
     id: 7,
     title: 'ww Ruecker Sr.',
     video: 'https://youtu.be/vbWT8el9Ffw',
-    img: '../images/celebs/20.jpg',
+    img: '../images/celebs/20.png',
     desc: 'Shoot with Mudassar khan',
     cat: 'Celebrities'
 },
